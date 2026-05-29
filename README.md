@@ -1,0 +1,1 @@
+# CyberHealth Dashboard - EHPAD Les 7 Fontaines. Application web interactive développée par moi même, Dhouha Dahen, dans le cadre de mon stage en ingénierie de la e-santé pour évaluer les risques cyber et sensibiliser le personnel..
